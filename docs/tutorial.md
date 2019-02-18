@@ -1035,7 +1035,7 @@ $ clojure -m figwheel.main -O whitespace -bo cruel
 ```
 
 > **TIP**: you can use `clj -m figwheel.main --help` to learn all of
-> the `figwheel.main` CLI flags and their abbriviations
+> the `figwheel.main` CLI flags and their abbreviations
 
 If you execute the above command and then view
 `target/public/cljs-out/cruel-main.js` you will see that it is now a
